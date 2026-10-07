@@ -1,2 +1,1 @@
-# ai-bioinformatics-platform Project-X
-!
+# ai-bioinformatics-platform 
